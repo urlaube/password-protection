@@ -1,5 +1,5 @@
 # Password-Protection plugin
-The Password-Protection plugin is a plugin for [Urlaub.be](https://github.com/urlaube/urlaube) that allows you to protect indivial content files with a password.
+The Password-Protection plugin is a plugin for [Urlaub.be](https://github.com/urlaube/urlaube) that allows you to protect individual content files with a password.
 
 ## Installation
 Place the folder containing the plugin into your plugins directory located at `./user/plugins/`.
